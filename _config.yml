@@ -4,7 +4,7 @@
 vars:
   conference:
     short_name: &short_name O-COCOSDA 2026
-    full_name: The 29th International Conference of Oriental COCOSDA
+    full_name: 29th International Conference of Oriental COCOSDA
     dates: November 9-11, 2026
     short_location: Cebu, Philippines
     full_location: Plantation Bay Resort and Spa, Mactan Island, Cebu, Philippines
