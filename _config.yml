@@ -1,5 +1,21 @@
 # The Site Configuration
 
+# -------------------------------- CUSTOM SITE VARIABLES --------------------------------
+vars:
+  conference:
+    short_name: &short_name O-COCOSDA 2026
+    full_name: The 29th International Conference of Oriental COCOSDA
+    dates: November 9-11, 2026
+    short_location: Cebu, Philippines
+    full_location: Plantation Bay Resort and Spa, Mactan Island, Cebu, Philippines
+  important_dates:
+    paper_submission: July 10, 2026
+    acceptance_notif: August 10, 2026
+    camera_ready: August 31, 2026
+
+
+# -------------------------------- START OF THEME CONFIG --------------------------------
+
 # Import the theme
 theme: jekyll-theme-chirpy
 
@@ -14,7 +30,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: O-COCOSDA 2026 # the main title
+title: *short_name # the main title
 
 tagline: >- # it will display as the subtitle
   November 9-11, 2026 @ Cebu, Philippines
