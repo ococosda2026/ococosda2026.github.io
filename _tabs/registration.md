@@ -4,7 +4,7 @@ icon: fa-solid fa-address-card
 order: 2
 ---
 
-<!-- markdownlint-disable  MD041 MD033 -->
+<!-- markdownlint-disable MD041 MD033 -->
 
 |                              | Early bird<br>(by August 31) | After August 31 |
 | ---------------------------: | :--------------------------: | :-------------: |
