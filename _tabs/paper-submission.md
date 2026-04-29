@@ -1,6 +1,6 @@
 ---
 layout: page
-icon: fa-regular fa-file-lines
+icon: fa-solid fa-file-lines
 order: 1
 ---
 
