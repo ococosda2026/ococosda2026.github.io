@@ -4,7 +4,17 @@ icon: fa-solid fa-file-lines
 order: 1
 ---
 
-<!-- markdownlint-disable MD041 -->
+<!-- markdownlint-disable MD041 MD033 -->
+
+<!-- Include search hiding script -->
+<style>
+/* kill anything containing search in id/class */
+*[id*="search"],
+*[class*="search"] {
+  display: none !important;
+  visibility: hidden !important;
+}
+</style>
 
 Submissions must present original, unpublished work and must not be under review by any other conference or journal during the review process. Papers must be written in **English**, follow the prescribed **double-column format**, and include Index Terms immediately following the abstract. Submissions must be prepared as **PDF files not exceeding six (6) pages** in length, including references and appendices; PDF files must not be password-protected, and all fonts must be embedded. Paper templates (Word and LaTeX) are available below.
 

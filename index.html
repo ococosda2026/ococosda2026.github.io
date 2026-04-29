@@ -3,6 +3,16 @@ layout: page
 # Index page
 ---
 
+<!-- Include search hiding script -->
+<style>
+/* kill anything containing search in id/class */
+*[id*="search"],
+*[class*="search"] {
+  display: none !important;
+  visibility: hidden !important;
+}
+</style>
+
 <h1>The {{site.vars.conference.full_name}}</h1>
 <h5>📍 {{site.vars.conference.full_location}}</h5>
 <h5>📅 {{site.vars.conference.dates}}</h5>

@@ -4,7 +4,17 @@ icon: fa-solid fa-users
 order: 4
 ---
 
-<!-- markdownlint-disable MD041 -->
+<!-- markdownlint-disable MD041 MD033 -->
+
+<!-- Include search hiding script -->
+<style>
+/* kill anything containing search in id/class */
+*[id*="search"],
+*[class*="search"] {
+  display: none !important;
+  visibility: hidden !important;
+}
+</style>
 
 #### Convenor
 

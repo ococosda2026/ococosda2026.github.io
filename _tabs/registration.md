@@ -6,6 +6,16 @@ order: 2
 
 <!-- markdownlint-disable MD041 MD033 -->
 
+<!-- Include search hiding script -->
+<style>
+/* kill anything containing search in id/class */
+*[id*="search"],
+*[class*="search"] {
+  display: none !important;
+  visibility: hidden !important;
+}
+</style>
+
 |                              | Early bird<br>(by August 31) | After August 31 |
 | ---------------------------: | :--------------------------: | :-------------: |
 | **Authors and Participants** |           USD 320            |     USD 380     |

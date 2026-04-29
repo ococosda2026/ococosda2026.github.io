@@ -6,6 +6,16 @@ order: 3
 
 <!-- markdownlint-disable MD041 MD033 -->
 
+<!-- Include search hiding script -->
+<style>
+/* kill anything containing search in id/class */
+*[id*="search"],
+*[class*="search"] {
+  display: none !important;
+  visibility: hidden !important;
+}
+</style>
+
 ## Venue
 
 The {{site.vars.conference.full_name}} will be held at [{{site.vars.conference.full_location}}](https://plantationbay.com/).
