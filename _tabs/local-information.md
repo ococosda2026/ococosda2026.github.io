@@ -30,7 +30,7 @@ The official currency of the country is the **Philippine Peso** (PHP).
 ![Philippine Currency](/assets/img/ph_currency.png)
 
 > [Old design series banknotes were already demonetized](https://www.bsp.gov.ph/Pages/CoinsAndNotes/DemonetizedCoinsAndNotes/DemonetizedNotesAndCoinsOverview.aspx) and are not anymore accepted in stores.
-{: .prompt-info }
+{: .prompt-warning }
 
 **1 USD** is roughly equivalent to **60 PHP**. Visit this link for the [Bangko Sentral ng Pilipinas Reference Exchange Rate Bulletin](https://www.bsp.gov.ph/sitepages/statistics/exchangerate.aspx)
 
@@ -46,6 +46,8 @@ The official currency of the country is the **Philippine Peso** (PHP).
 ## Electricity
 
 The power sockets are of **type A (USA)**. The standard voltage is **220V** and the standard frequency is **60 Hz**.
+
+<img src="https://www.netio-products.com/files/styles/glossary_552x414/public/Glossary_type-A-electrical-plug-type_0.png" alt="Type A Plug and Socket" width="500" />
 
 ## Weather
 
