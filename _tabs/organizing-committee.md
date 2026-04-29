@@ -6,25 +6,25 @@ order: 4
 
 <!-- markdownlint-disable MD041 -->
 
-##### Convenor
+#### Convenor
 
 - Sakriani Sakti, Nara Institute of Science and Technology
 
-##### Honorary Chair
+#### Honorary Chair
 
 - Ethel Ong, De La Salle University
 
-##### Organizers
+#### Organizers
 
 - Nathaniel Oco, De La Salle University (chair)
 - Angie Ceniza-Canillo, University of San Carlos (chair)
 - Kenichiro Kurusu, Tokyo University of Foreign Studies
 
-##### Webmaster
+#### Webmaster
 
 - Kristine Ma. Dominique Kalaw, De La Salle University
 
-##### Steering Committee
+#### Steering Committee
 
 - Wutiwiwachai Chai, National Electronics and Computer Technology Center
 - Yong-Ju Lee, Seoul National University of Science and Technology
@@ -35,7 +35,7 @@ order: 4
 - Agrawal Shyam, Kalinga Institute of Industrial Technology
 - Hsin-Min Wang, Academia Sinica
 
-##### International Advisory Committee
+#### International Advisory Committee
 
 - Shyam S. Agrawal, KIIT
 - Jai Raj Awasthi, Tribhuvan University
@@ -56,7 +56,7 @@ order: 4
 - Chai Wutiwiwatchai, NECTEC
 - Thomas Fang Zheng, Tsinghua University
 
-##### Program Committee
+#### Program Committee
 
 - Briane Paul Samson, De La Salle University
 - Charibeth Cheng, De La Salle University
