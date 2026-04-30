@@ -21,8 +21,8 @@ Submissions must present original, unpublished work and must not be under review
 - [Word file](/assets/manuscript_templates/O-COCOSDA2026_word.doc)
 - [LaTeX files](/assets/manuscript_templates/O-COCOSDA2026_latex.zip)
 
-Papers must be submitted through the **EasyChair system** via the designated submission link. Accepted papers will be assigned to either oral or poster presentations, as determined by the program committee. The conference proceedings will be submitted to a digital library.
+Papers must be submitted through the **EasyChair system** via the designated submission link. Accepted papers will be assigned to either oral or poster presentations, as determined by the program committee. The conference proceedings will be submitted for inclusion in the ISCA Archive.
 
 - **Submission site:** <https://easychair.org/conferences/?conf=ococosda2026>
 
-**O-COCOSDA 2026 will be held fully on site (in person)**. At least one author of each accepted paper must register by the early registration deadline and present the paper in person at the conference. Papers that are not presented on site will be withdrawn and excluded from the final proceedings and will not be submitted to the digital library.
+**O-COCOSDA 2026 will be held fully on site (in person)**. At least one author of each accepted paper must register by the early registration deadline and present the paper in person at the conference. Papers that are not presented on site will be withdrawn and excluded from the final proceedings.
