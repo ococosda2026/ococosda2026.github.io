@@ -16,10 +16,9 @@ order: 1
 }
 </style>
 
-Submissions must present original, unpublished work and must not be under review by any other conference or journal during the review process. Papers must be written in **English**, follow the prescribed **double-column format**, and include Index Terms immediately following the abstract. Submissions must be prepared as **PDF files not exceeding six (6) pages** in length, including references and appendices; PDF files must not be password-protected, and all fonts must be embedded. Paper templates (Word and LaTeX) are available below.
+Submissions must present original, unpublished work and must not be under review by any other conference or journal during the review process. Papers must be written in **English**, follow the prescribed **double-column format**, and include Index Terms immediately following the abstract. Submissions must be prepared as **PDF files not exceeding eight (8) pages** in length, plus up to 2 additional pages reserved exclusively for references, acknowledgments, and disclosure of any generative AI tool use; PDF files must not be password-protected, and all fonts must be embedded. Submissions must use the Interspeech 2026 templates, which are provided in a ZIP file below (Word and LaTeX formats).
 
-- [Word file](/assets/manuscript_templates/O-COCOSDA2026_word.doc)
-- [LaTeX files](/assets/manuscript_templates/O-COCOSDA2026_latex.zip)
+- [Paper Templates](/assets/manuscript_templates/Interspeech2026-Paper-Kit.zip)
 
 Papers must be submitted through the **EasyChair system** via the designated submission link. Accepted papers will be assigned to either oral or poster presentations, as determined by the program committee. The conference proceedings will be submitted for inclusion in the ISCA Archive.
 
