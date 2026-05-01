@@ -20,7 +20,7 @@ Submissions must present original, unpublished work and must not be under review
 
 - [Paper Templates](/assets/manuscript_templates/Interspeech2026-Paper-Kit.zip)
 
-O-COCOSDA 2026 adopts a **double-blind review process**. Authors must submit an anonymized version of their paper for review. Please follow all instructions in the Paper Kit.
+O-COCOSDA 2026 adopts a **double-blind review process**. Authors must submit an anonymized version of their paper for review. Please follow all instructions in the paper template.
 
 Papers must be submitted through the **EasyChair system** via the designated submission link. Accepted papers will be assigned to either oral or poster presentations, as determined by the program committee. The conference proceedings will be submitted for inclusion in the ISCA Archive.
 
