@@ -16,7 +16,7 @@ order: 1
 }
 </style>
 
-Submissions must present original, unpublished work and must not be under review by any other conference or journal during the review process. Papers must be written in **English**, follow the prescribed **double-column format**, and include Index Terms immediately following the abstract. Submissions must be prepared as **PDF files not exceeding eight (8) pages** in length, plus up to 2 additional pages reserved exclusively for references, acknowledgments, and disclosure of any generative AI tool use; PDF files must not be password-protected, and all fonts must be embedded. Submissions must use the Interspeech 2026 templates, which are provided in a ZIP file below (Word and LaTeX formats).
+Submissions must present original, unpublished work and must not be under review by any other conference or journal during the review process. Papers must be written in English, and follow the prescribed format. Submissions must be prepared as **PDF files not exceeding eight (8) pages** in length, with up to **two (2) additional pages** reserved exclusively for references, acknowledgments, and disclosure of any generative AI tool use. PDF files must not be password-protected, and all fonts must be embedded. Submissions must use the Interspeech 2026 templates, which are provided below as a ZIP file (Word and LaTeX formats).
 
 - [Paper Templates](/assets/manuscript_templates/Interspeech2026-Paper-Kit.zip)
 
