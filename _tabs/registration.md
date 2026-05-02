@@ -48,7 +48,7 @@ The **full registration fee** covers admission to all conference sessions, lunch
 
 For **early-bird registration**, the payment date will be determined based on the date the transfer was initiated, as indicated in the proof of payment uploaded through the registration form.
 
-Participants who are unable to complete payment in advance and wish to pay onsite (during the conference) must inform the organizing committee via email at [nathaniel [dot] oco [at] dlsu [dot] edu [dot] ph](mailto:nathaniel.ocO@dlsu.edu.ph).  Onsite payments will be charged at the regular registration rate.
+Participants who are unable to complete payment in advance and wish to pay onsite (during the conference) must inform the organizing committee via email at [nathaniel [dot] oco [at] dlsu [dot] edu [dot] ph](mailto:nathaniel.oco@dlsu.edu.ph).  Onsite payments will be charged at the regular registration rate.
 
 After completing the payment, participants are required to fill out the registration form.
 > Registration form link to follow
