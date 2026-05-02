@@ -30,14 +30,14 @@ The conference website for O-COCOSDA 2026 or the 29th International Conference o
 
 This app requires at least [Ruby 3.1](https://www.ruby-lang.org/en/). In order to manage various Ruby versions when working with different projects, we will use `rbenv`. For managing different Ruby dependency gems, we will use `Bundler`.
 
+> If you are using a Windows OS, it is recommended to use the [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install). If not, install the required dependencies manually by following their official setup guides.
+
 - [`rbenv`](https://github.com/rbenv/rbenv) allows you to manage multiple installations of Ruby.
   - On macOS, Linux, or other UNIX-like operating systems, run the following to install it:
 
     ```shell
     curl -fsSL https://github.com/rbenv/rbenv-installer/raw/HEAD/bin/rbenv-installer | bash
     ```
-
-  - On Windows, refer to [rbenv for Windows](https://github.com/RubyMetric/rbenv-for-windows)
   
 - [`Bundler`](http://bundler.io/) provides a consistent environment for Ruby projects by tracking and installing the exact gems and versions that are needed.
   - Any modern distribution of Ruby comes with Bundler preinstalled by default.
