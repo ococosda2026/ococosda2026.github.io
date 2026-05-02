@@ -30,7 +30,7 @@ The conference website for O-COCOSDA 2026 or the 29th International Conference o
 
 This app requires at least [Ruby 3.1](https://www.ruby-lang.org/en/). In order to manage various Ruby versions when working with different projects, we will use `rbenv`. For managing different Ruby dependency gems, we will use `Bundler`.
 
-> If you are using a Windows OS, it is recommended to use the [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install). If not, install the required dependencies manually by following their official setup guides.
+> If you are using a Windows OS, it is recommended to use the [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install). If not, install the required dependencies manually by following their official setup guides.
 
 - [`rbenv`](https://github.com/rbenv/rbenv) allows you to manage multiple installations of Ruby.
   - On macOS, Linux, or other UNIX-like operating systems, run the following to install it:
@@ -46,28 +46,31 @@ This app requires at least [Ruby 3.1](https://www.ruby-lang.org/en/). In order t
 
 After cloning the repository, set up the Ruby version for local development.
 
-1. Install Ruby 3.1.7
+1. Install Ruby 3.1.7:
 
     ```shell
     rbenv install 3.1.7
     ```
 
-2. Automatically set the to the appropriate Ruby version upon entering/exiting the root directory:
+2. Automatically set to the appropriate Ruby version upon entering/exiting the root directory:
 
     ```shell
     rbenv local 3.1.7
     ```
 
-3. Install app dependencies
+3. Install app dependencies with:
 
     ```shell
     bundle install
     ```
 
-   If you need to reset the installed dependencies, delete the bundle cache and Gemlock files, then reinstall the app dependencies
+   If you need to reset the installed dependencies:
 
     ```shell
+    # Delete the bundle cache and Gemlock files
     rm -rf .bundle Gemfile.lock 
+
+    # Then reinstall the app dependencies
     bundle install
     ```
 
@@ -104,13 +107,13 @@ ococosda2026.github.io
 
 - `_data/`: Contains the YAML configurations for social media-related links. Currently not used and contents are commented out.
 - `_plugins/`: Contains the plugins used by the theme.
-- `_posts/`: Contains the the blog "post" type of content. Currently not used and empty.
-- `_tabs/`: Contains the static page type of content. These automatically appear on the sidebar of the theme.
+- `_posts/`: Contains the the "blog post" type of content. Currently not used and empty.
+- `_tabs/`: Contains the "static page" type of content. These automatically appear on the sidebar of the theme.
 - `assets/`: Contains the static assets of the website.
 - [`_config.yml`](_config.yml): Contains the general Jekyll and theme-specific configuration.
 - [`Gemfile`](Gemfile): Contains the build system requirements (dependencies).
-- [`Gemfile.lock`](Gemfile.lock): A snapshot of the exact versions of the dependencies used.
-- [`index.html`](index.html): Main entry point of the website (home page)
+- [`Gemfile.lock`](Gemfile.lock): A snapshot of the exact versions of the dependencies used (automatically generated via `bundle install`).
+- [`index.html`](index.html): Main entry point of the website (home page).
 
 <!-- links -->
 [gem]: https://rubygems.org/gems/jekyll-theme-chirpy
