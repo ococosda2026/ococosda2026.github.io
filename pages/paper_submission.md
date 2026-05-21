@@ -11,7 +11,7 @@ Submissions must present original, unpublished work and must not be
 under review by any other conference or journal during the review process. 
 Papers must be written in English, follow the prescribed double-column format, and 
 include Index Terms immediately following the abstract. Submissions must be prepared 
-as PDF files not exceeding six (6) pages in length, including references and appendices; 
+as <b>PDF files not exceeding six (6) pages in length, including references and appendices</b>; 
 PDF files must not be password-protected, and all fonts must be embedded. Paper templates 
 (Word and LaTeX) are available below.
 </p>
@@ -28,7 +28,7 @@ the program committee. The conference proceedings will be submitted for inclusio
 [Submit Here](https://easychair.org/conferences/?conf=ococosda2026){: .btn .btn-green .mr-4 }
 
 <p style="text-align: justify">
-O-COCOSDA 2026 will be held fully on site (in person). At least one author of each accepted paper 
+<b>O-COCOSDA 2026 will be held fully on site (in person)</b>. At least one author of each accepted paper 
 must register by the early registration deadline and present the paper in person at the conference. 
 Papers that are not presented on site will be withdrawn and excluded from the final proceedings.
 </p>
