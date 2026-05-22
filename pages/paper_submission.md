@@ -2,10 +2,10 @@
 layout: default
 title: Paper Submission
 nav_order: 2
-last_modified_date: 2026-05-22 15:45
+last_modified_date: 2026-05-22 16:15
 ---
 
-<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD033 MD060 -->
 
 <table>
   <tr>
@@ -13,9 +13,9 @@ last_modified_date: 2026-05-22 15:45
       <img src="/assets/images/ococosda-logo.png" alt="O-COCOSDA 2026 logo" title="O-COCOSDA 2026 logo" style="height: inherit;"/>
     </td>
     <td>
-      <strong>The 29th International Conference of Oriental COCOSDA</strong> <br>
-      📍 Plantation Bay Resort and Spa, Mactan Island, Cebu, Philippines <br>
-      📅 November 9-11, 2026 </td>
+      <strong>The {{site.vars.conference.full_name}}</strong> <br>
+      📍 {{site.vars.conference.full_location}} <br>
+      📅 {{site.vars.conference.dates}} </td>
   </tr>
 </table>
 
@@ -36,3 +36,11 @@ Papers must be submitted through the **EasyChair system** via the designated sub
 </span>
 
 <br>**O-COCOSDA 2026 will be held fully on site (in person)**. At least one author of each accepted paper must register by the early registration deadline and present the paper in person at the conference. Papers that are not presented on site will be withdrawn and excluded from the final proceedings.
+
+-----
+
+## Important Dates
+
+| Paper Submission | Acceptance Notification | Camera Ready Deadline |
+|:----------------:|:-----------------------:|:---------------------:|
+| {{site.vars.important_dates.paper_submission}} | {{site.vars.important_dates.acceptance_notif}} | {{site.vars.important_dates.camera_ready}} |

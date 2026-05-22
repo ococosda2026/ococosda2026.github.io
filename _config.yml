@@ -1,5 +1,19 @@
-title: O-COCOSDA 2026
-description: A starter template for a Jeykll site using the Just the Docs theme!
+# -------------------------------- CUSTOM SITE VARIABLES --------------------------------
+vars:
+  conference:
+    short_name: &short_name O-COCOSDA 2026
+    full_name: 29th International Conference of Oriental COCOSDA
+    dates: November 9-11, 2026
+    short_location: Cebu, Philippines
+    full_location: Plantation Bay Resort and Spa, Mactan Island, Cebu, Philippines
+  important_dates:
+    paper_submission: July 10, 2026
+    acceptance_notif: August 10, 2026
+    camera_ready: August 31, 2026
+# -------------------------------- START OF THEME CONFIG --------------------------------
+
+title: *short_name
+description: The conference website for O-COCOSDA 2026, the 29th International Conference of Oriental COCOSDA.
 theme: just-the-docs
 
 url: https://ococosda2026.github.io/test

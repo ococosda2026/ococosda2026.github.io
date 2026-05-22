@@ -2,7 +2,7 @@
 layout: default
 title: Registration
 nav_order: 3
-last_modified_date: 2026-05-22 15:55
+last_modified_date: 2026-05-22 16:15
 ---
 
 <!-- markdownlint-disable MD033 -->
@@ -13,9 +13,9 @@ last_modified_date: 2026-05-22 15:55
       <img src="/assets/images/ococosda-logo.png" alt="O-COCOSDA 2026 logo" title="O-COCOSDA 2026 logo" style="height: inherit;"/>
     </td>
     <td>
-      <strong>The 29th International Conference of Oriental COCOSDA</strong> <br>
-      📍 Plantation Bay Resort and Spa, Mactan Island, Cebu, Philippines <br>
-      📅 November 9-11, 2026 </td>
+      <strong>The {{site.vars.conference.full_name}}</strong> <br>
+      📍 {{site.vars.conference.full_location}} <br>
+      📅 {{site.vars.conference.dates}} </td>
   </tr>
 </table>
 

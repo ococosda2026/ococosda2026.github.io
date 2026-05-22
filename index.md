@@ -2,17 +2,17 @@
 layout: default
 title: Home
 nav_order: 1
-last_modified_date: 2026-05-22 14:30
+last_modified_date: 2026-05-22 16:15
 ---
 
-<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD033 MD060 -->
 
-![The 29th International Conference of Oriental COCOSDA](assets/images/ococosda-banner.png)
+![The {{site.vars.conference.full_name}}](assets/images/ococosda-banner.png)
 
-## The 29th International Conference of Oriental COCOSDA
+## The {{site.vars.conference.full_name}}
 
-📍 Plantation Bay Resort and Spa, Mactan Island, Cebu, Philippines <br>
-📅 November 9-11, 2026
+📍 {{site.vars.conference.full_location}} <br>
+📅 {{site.vars.conference.dates}}
 
 ## Call for Papers
 
@@ -37,9 +37,9 @@ Papers are invited on substantial, original, and unpublished research on all asp
 
 ## Important Dates
 
-- **Paper Submission:** July 10, 2026
-- **Acceptance Notification:** August 10, 2026
-- **Camera Ready Deadline:** August 31, 2026
+| Paper Submission | Acceptance Notification | Camera Ready Deadline |
+|:----------------:|:-----------------------:|:---------------------:|
+| {{site.vars.important_dates.paper_submission}} | {{site.vars.important_dates.acceptance_notif}} | {{site.vars.important_dates.camera_ready}} |
 
 -----
 
