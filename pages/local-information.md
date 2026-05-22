@@ -41,7 +41,7 @@ The official currency of the country is the **Philippine Peso** (PHP).
 - [New Generation Currency Series](https://www.bsp.gov.ph/SitePages/CoinsAndNotes/NewGenerationCurrencyBanknotes.aspx)
 - [First Philippine Polymer Banknote Series](https://www.bsp.gov.ph/SitePages/CoinsAndNotes/PolymerBanknote.aspx)
   
-![Philippine Currency](/assets/images/ph_currency.png)
+![Philippine Currency](/assets/images/local_info-ph_currency.png)
 
 {: .warning }
 *[Old design series banknotes were already demonetized](https://www.bsp.gov.ph/Pages/CoinsAndNotes/DemonetizedCoinsAndNotes/DemonetizedNotesAndCoinsOverview.aspx) and are not anymore accepted in stores.*
@@ -61,7 +61,7 @@ The official currency of the country is the **Philippine Peso** (PHP).
 
 The power sockets are of **type A (USA)**. The standard voltage is **220V** and the standard frequency is **60 Hz**.
 
-<img src="https://www.netio-products.com/files/styles/glossary_552x414/public/Glossary_type-A-electrical-plug-type_0.png" alt="Type A Plug and Socket" width="500" />
+<img src="/assets/images/local_info-power_socket.png" alt="Type A Plug and Socket" width="500" />
 
 ### Weather
 
