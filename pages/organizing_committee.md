@@ -1,27 +1,45 @@
 ---
-title: Organizing Committee
 layout: default
-nav_enabled: true
-nav_order: 4
+title: Organizing Committee
+nav_order: 5
+last_modified_date: 2026-05-22 16:30
 ---
+<!-- markdownlint-disable MD033 -->
 
-# Organizing Committee
+<table>
+  <tr>
+    <td style="width: 120px">
+      <img src="/assets/images/ococosda-logo.png" alt="O-COCOSDA 2026 logo" title="O-COCOSDA 2026 logo" style="height: inherit;"/>
+    </td>
+    <td>
+      <strong>The {{site.vars.conference.full_name}}</strong> <br>
+      📍 {{site.vars.conference.full_location}} <br>
+      📅 {{site.vars.conference.dates}} </td>
+  </tr>
+</table>
+
+## Organizing Committee
 
 ### Convenor
+
 - Sakriani Sakti, Nara Institute of Science and Technology
 
 ### Honorary Chair
+
 - Ethel Ong, De La Salle University
 
 ### Organizers
+
 - Nathaniel Oco, De La Salle University (chair)
 - Angie Ceniza-Canillo, University of San Carlos (chair)
 - Kenichiro Kurusu, Tokyo University of Foreign Studies
 
 ### Webmaster
+
 - Kristine Ma. Dominique Kalaw, De La Salle University
 
 ### Steering Committee
+
 - Wutiwiwachai Chai, National Electronics and Computer Technology Center
 - Yong-Ju Lee, Seoul National University of Science and Technology
 - Aijun Li, Chinese Academy of Social Sciences
@@ -32,6 +50,7 @@ nav_order: 4
 - Hsin-Min Wang, Academia Sinica
 
 ### International Advisory Committee
+
 - Shyam S. Agrawal, KIIT
 - Jai Raj Awasthi, Tribhuvan University
 - Nick Campbell, Trinity College Dublin
@@ -52,6 +71,7 @@ nav_order: 4
 - Thomas Fang Zheng, Tsinghua University
 
 ### Program Committee
+
 - Briane Paul Samson, De La Salle University
 - Charibeth Cheng, De La Salle University
 - Joel Ilao, De La Salle University
