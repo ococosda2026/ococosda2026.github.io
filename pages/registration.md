@@ -1,27 +1,44 @@
 ---
-title: Registration
 layout: default
-nav_enabled: true
+title: Registration
 nav_order: 3
+last_modified_date: 2026-05-22 15:55
 ---
-# Registration
+
+<!-- markdownlint-disable MD033 -->
+
+<table>
+  <tr>
+    <td style="width: 120px">
+      <img src="/assets/images/ococosda-logo.png" alt="O-COCOSDA 2026 logo" title="O-COCOSDA 2026 logo" style="height: inherit;"/>
+    </td>
+    <td>
+      <strong>The 29th International Conference of Oriental COCOSDA</strong> <br>
+      📍 Plantation Bay Resort and Spa, Mactan Island, Cebu, Philippines <br>
+      📅 November 9-11, 2026 </td>
+  </tr>
+</table>
+
+## Registration
 
 |                              | Early bird<br>(by August 31) | After August 31 |
 | ---------------------------: | :--------------------------: | :-------------: |
 | **Authors and Participants** |           USD 320            |     USD 380     |
 |                 **Students** |           USD 180            |     USD 230     |
 
-----
+-----
 
 ## Registration Payment
+
 Registration payments may be made using one of the following methods:
 
 ### Online Payment
 
-> {: .highlight }
+{: .note }
 Details to follow
 
 ### Bank Transfer
+
 - **Account No. (in USD):** 104580228807
 - **Account Name:** DE LA SALLE UNIVERSITY, INC.
 - **Bank Name:** BDO Unibank Inc
@@ -29,18 +46,18 @@ Details to follow
 - **SWIFT Code:** BNORPHMM
 - **Kindly specify at the Purpose/Remarks:** O-COCOSDA
 
-{: .note }
-Please note that bank transfers may incur additional fees, which are the responsibility of the participant. Transfer fees vary depending on the policies of the sending bank; participants are advised to consult their bank for details. If the amount received by the organizing committee is less than the required registration fee due to transfer charges, participants must settle the outstanding balance.
+{: .highlight }
+*Please note that bank transfers may incur additional fees, which are the responsibility of the participant. Transfer fees vary depending on the policies of the sending bank; participants are advised to consult their bank for details. If the amount received by the organizing committee is less than the required registration fee due to transfer charges, participants must settle the outstanding balance.*
 
-----
+-----
 
 The **full registration fee** covers admission to all conference sessions, lunch, morning and afternoon coffee breaks, and the gala dinner. Accommodation and airport transportation are not included in the registration fee.
 
 For **early-bird registration**, the payment date will be determined based on the date the transfer was initiated, as indicated in the proof of payment uploaded through the registration form.
 
-Participants who are unable to complete payment in advance and wish to pay onsite (during the conference) must inform the organizing committee via email at nathaniel.oco@dlsu.edu.ph. Onsite payments will be charged at the regular registration rate.
+Participants who are unable to complete payment in advance and wish to pay onsite (during the conference) must inform the organizing committee via email at <nathaniel.oco@dlsu.edu.ph>. Onsite payments will be charged at the regular registration rate.
 
 After completing the payment, participants are required to fill out the registration form.
 
-> {: .highlight }
+{: .note }
 Registration form link to follow
