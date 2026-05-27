@@ -39,6 +39,9 @@ last_modified_date: 2026-05-22 16:30
 
 - Erin Gabrielle Chua, De La Salle University
 - Gwyneth Irish Ungos, De La Salle University
+- Julianne Erika De Leon, De La Salle University
+- Rhian Mei Katigbak, De La Salle University
+- Raphael Glendhel Romero, De La Salle University
 
 ### Webmaster
 
