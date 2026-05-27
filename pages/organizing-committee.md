@@ -32,7 +32,13 @@ last_modified_date: 2026-05-22 16:30
 
 - Nathaniel Oco, De La Salle University (chair)
 - Angie Ceniza-Canillo, University of San Carlos (chair)
+- Joel Ilao, De La Salle University
 - Kenichiro Kurusu, Tokyo University of Foreign Studies
+
+### Publicity
+
+- Erin Gabrielle Chua, De La Salle University
+- Gwyneth Irish Ungos, De La Salle University
 
 ### Webmaster
 
