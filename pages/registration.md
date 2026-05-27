@@ -21,10 +21,12 @@ last_modified_date: 2026-05-22 16:15
 
 ## Registration
 
-|                              | Early bird<br>(by August 31) | After August 31 |
-| ---------------------------: | :--------------------------: | :-------------: |
-| **Authors and Participants** |           USD 320            |     USD 380     |
-|                 **Students** |           USD 180            |     USD 230     |
+|                                                | Early bird<br>(by August 31) | After August 31 |
+| ---------------------------------------------: | :--------------------------: | :-------------: |
+|     **Authors and Participants (ISCA Member)** |           USD 290            |     USD 350     |
+| **Authors and Participants (Non-ISCA Member)** |           USD 320            |     USD 380     |
+|                     **Students (ISCA Member)** |           USD 150            |     USD 190     |
+|                 **Students (Non-ISCA Member)** |           USD 180            |     USD 220     |
 
 -----
 
