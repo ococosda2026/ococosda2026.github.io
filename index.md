@@ -7,7 +7,7 @@ last_modified_date: 2026-05-22 16:15
 
 <!-- markdownlint-disable MD033 MD060 -->
 
-![The {{site.vars.conference.full_name}}](assets/images/ococosda-banner.png)
+![The {{site.vars.conference.full_name}}](/assets/images/ococosda-banner.png)
 
 ## The {{site.vars.conference.full_name}}
 
