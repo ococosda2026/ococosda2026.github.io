@@ -23,7 +23,7 @@ The first preparatory meeting took place in Hong Kong in 1997, and since then, 2
 Papers are invited on substantial, original, and unpublished research on all aspects of speech databases, assessments, and speech I/O, including, but not limited to:
 
 - Speech databases and text corpora
-- Assessment of spech input and output technologies
+- Assessment of speech input and output technologies
 - Phonetic/phonological systems for oriental languages
 - Romanization of non-roman characters
 - Segmentation and labeling
