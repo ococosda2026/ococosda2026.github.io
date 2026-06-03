@@ -16,7 +16,7 @@ title: *short_name
 description: The conference website for O-COCOSDA 2026, the 29th International Conference of Oriental COCOSDA.
 theme: just-the-docs
 
-url: https://ococosda2026.github.io/test
+url: https://www.ococosda2026.com.ph
 
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/ococosda-logo.png"
@@ -29,7 +29,7 @@ favicon_ico: "/assets/images/ococosda-favicon.ico"
 footer_content: "© 2026 <strong>O-COCOSDA 2026 Organizing Committee</strong>."
 
 # Footer last edited timestamp
-last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_timestamp: false # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 # uses ruby's time format: https://docs.ruby-lang.org/en/3.2/strftime_formatting_rdoc.html
 last_edit_time_format: "%b %e %Y at %I:%M %p GMT+8" # Sample output: May 22 2026 at 02:45 PM GMT+8
 
