@@ -28,11 +28,6 @@ favicon_ico: "/assets/images/ococosda-favicon.ico"
 # appears at the bottom of every page's main content
 footer_content: "© 2026 <strong>O-COCOSDA 2026 Organizing Committee</strong>."
 
-# Footer last edited timestamp
-last_edit_timestamp: false # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
-# uses ruby's time format: https://docs.ruby-lang.org/en/3.2/strftime_formatting_rdoc.html
-last_edit_time_format: "%b %e %Y at %I:%M %p GMT+8" # Sample output: May 22 2026 at 02:45 PM GMT+8
-
 # Color for callout
 callouts:
   highlight:
