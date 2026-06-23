@@ -20,7 +20,7 @@ last_modified_date: 2026-05-22 16:30
 
 ## Organizing Committee
 
-### Convenor
+### Convener
 
 - Sakriani Sakti, Nara Institute of Science and Technology
 
