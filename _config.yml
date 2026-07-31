@@ -7,9 +7,9 @@ vars:
     short_location: Cebu, Philippines
     full_location: Plantation Bay Resort and Spa, Mactan Island, Cebu, Philippines
   important_dates:
-    paper_submission: July 31, 2026
-    acceptance_notif: August 31, 2026
-    camera_ready: September 21, 2026
+    paper_submission: August 17, 2026
+    acceptance_notif: September 7, 2026
+    camera_ready: September 28, 2026
 # -------------------------------- START OF THEME CONFIG --------------------------------
 
 title: *short_name
