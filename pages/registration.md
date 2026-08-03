@@ -21,7 +21,7 @@ last_modified_date: 2026-05-22 16:15
 
 ## Registration
 
-|                                                | Early bird<br>(by September 28) | Regular rate<br>(Sep29 - Oct 15) |
+|                                                | Early bird<br>(by September 28) | Regular rate<br>(Sep29 - Oct 31) |
 | ---------------------------------------------: | :-----------------------------: | :------------------------------: |
 |     **Authors and Participants (ISCA Member)** |       PHP 17,500 (USD 290)      |       PHP 21,500 (USD 350)       |
 | **Authors and Participants (Non-ISCA Member)** |       PHP 19,500 (USD 320)      |       PHP 23,500 (USD 380)       |
