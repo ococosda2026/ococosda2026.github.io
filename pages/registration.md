@@ -34,10 +34,9 @@ last_modified_date: 2026-05-22 16:15
 
 Registration payments may be made using one of the following methods:
 
-### Online Payment
+### Option 1: Online Payment
 
-{: .note }
-Details to follow
+Visit this link for online payment: <https://events.dlsu.edu.ph/o-cocosda/>
 
 ### Bank Transfer
 
@@ -47,6 +46,7 @@ Details to follow
 - **Bank Address:** 2422 Taft Avenue, Malate, Manila, 1004 Philippines
 - **SWIFT Code:** BNORPHMM
 - **Kindly specify at the Purpose/Remarks:** O-COCOSDA
+- After completing the bank transfer, participants must fill out the registration form and upload proof of payment: <https://forms.gle/jPqNdsY9aao18bsY8>
 
 {: .highlight }
 *Please note that bank transfers may incur additional fees, which are the responsibility of the participant. Transfer fees vary depending on the policies of the sending bank; participants are advised to consult their bank for details. If the amount received by the organizing committee is less than the required registration fee due to transfer charges, participants must settle the outstanding balance.*
