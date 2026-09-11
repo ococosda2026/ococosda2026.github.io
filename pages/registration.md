@@ -38,7 +38,7 @@ Registration payments may be made using one of the following methods:
 
 Visit this link for online payment: <https://events.dlsu.edu.ph/o-cocosda/>
 
-### Bank Transfer
+### Option 2: Bank Transfer
 
 - **Account No. (in USD):** 104580228807
 - **Account Name:** DE LA SALLE UNIVERSITY, INC.
