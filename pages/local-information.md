@@ -28,7 +28,7 @@ The {{site.vars.conference.full_name}} will be held at [{{site.vars.conference.f
 
 ### Accommodation at Plantation Bay Resort and Spa – Conference Venue
 
-Participants who prefer to stay at the 5-star conference venue may avail themselves of a special O-COCOSDA 2026 accommodation rate of PHP 48,000 for a four-night stay, with check-in on November 24 and check-out on November 28, 2026.  This is equivalent to PHP 12,000 per night, compared with the resort's regular rate of approximately USD 270 per night.  This accommodation option is available through the O-COCOSDA 2026 registration website.
+Participants who prefer to stay at the 5-star conference venue may avail themselves of a special O-COCOSDA 2026 accommodation rate of PHP 48,000 for a four-night stay, with check-in on November 24 and check-out on November 28, 2026.  This is equivalent to PHP 12,000 per night, compared with the resort's regular rate of approximately USD 270 per night.  Participants may select this accommodation option when completing the O-COCOSDA 2026 registration form.
 
 ### Other Accommodation Options
 
