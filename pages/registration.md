@@ -60,6 +60,3 @@ For **early-bird registration**, the payment date will be determined based on th
 Participants who are unable to complete payment in advance and wish to pay onsite (during the conference) must inform the organizing committee via email at <nathaniel.oco@dlsu.edu.ph>. Onsite payments will be charged at the regular registration rate.
 
 For bank transfers, participants are required to fill out the registration form.
-
-{: .note }
-Registration form link to follow
