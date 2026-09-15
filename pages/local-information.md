@@ -26,6 +26,18 @@ The {{site.vars.conference.full_name}} will be held at [{{site.vars.conference.f
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1963.0061646301099!2d123.98238965000002!3d10.26058875!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33a9909b062b564f%3A0x3111ac5bd41461a3!2sPlantation%20Bay%2C%20a%20Real%20Resort%20with%20a%20Real%20Spa!5e0!3m2!1sen!2sph!4v1777445479713!5m2!1sen!2sph" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+### Accommodation at Plantation Bay Resort and Spa – Conference Venue
+
+Participants who prefer to stay at the 5-star conference venue may avail themselves of a special O-COCOSDA 2026 accommodation rate of PHP 48,000 for a four-night stay, with check-in on November 24 and check-out on November 28, 2026.  This is equivalent to PHP 12,000 per night, compared with the resort's regular rate of approximately USD 270 per night.  This accommodation option is available through the O-COCOSDA 2026 registration website.
+
+### Other Accommodation Options
+
+Participants seeking more budget-friendly accommodation may consider the following nearby resorts:
+- Pacific Cebu Resort (3-star resort) – approximately 10 minutes from Plantation Bay
+- Solea Mactan Resort and Waterpark (4-star resort) – approximately 20 minutes from Plantation Bay
+
+The O-COCOSDA 2026 Organizing Committee will provide complimentary shuttle service to and from the conference venue for registered participants staying at these two resorts during the conference.  Participants may book their accommodations directly with the hotels or through online booking platforms.  Competitive rates for Pacific Cebu Resort and Solea Mactan Resort and Waterpark may be available through Agoda and Booking.com.
+
 ### Cebu
 
 **Cebu** is an island province located in the heart of the **Philippines**.  Beyond its dynamic urban landscape, Cebu offers a rich blend of natural and cultural attractions. The island is home to breathtaking waterfalls, freshwater springs, and scenic mountain landscapes – ideal for those seeking respite from city life. Its coastline is dotted with white-sand beaches, world-class resorts, and charming islets. Equally memorable is the warmth and hospitality of the Cebuano people, who welcome visitors with vibrant local culture and a diverse array of Filipino cuisine and delicacies.
