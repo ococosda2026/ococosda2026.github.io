@@ -32,16 +32,52 @@ last_modified_date: 2026-05-22 16:30
 
 - Nathaniel Oco, De La Salle University (chair)
 - Angie Ceniza-Canillo, University of San Carlos (chair)
+- Grace Estrada, University of San Carlos
+- Khent Dela Paz, University of San Carlos
+- Mark Kenneth Engcot, University of San Carlos
+- Katrina Fuentes, University of San Carlos
 - Joel Ilao, De La Salle University
 - Kenichiro Kurusu, Tokyo University of Foreign Studies
+- Christian Maderazo, University of San Carlos
+- Christine Pena, University of San Carlos
+- Elmer Poliquit, University of San Carlos
+- Karen Kim Tan, University of San Carlos
 
-### Publicity
+### Local Organizing Committee (University of San Carlos)
 
-- Erin Gabrielle Chua, De La Salle University
-- Gwyneth Irish Ungos, De La Salle University
-- Julianne Erika De Leon, De La Salle University
-- Rhian Mei Katigbak, De La Salle University
-- Raphael Glendhel Romero, De La Salle University
+- Grace Estrada (chair)
+- Aion Christoff Ernst D' Silva
+- Archival Sebial
+- Cate Zamora
+- Chestere Baring
+- Chris Ray Belarmino
+- Christine Bandalan
+- Doriz Roa
+- Francine Menchavez
+- Francisgian Opone
+- Genevive Elveña
+- Glenn Pepito
+- Gran Sabandal
+- Janie Lane Sabado
+- Katrina Fuentes
+- Khent Harold Amancio
+- Kirstine Enriquez
+- Margie Baterna
+- Marian Sionzon
+- Mary Rose Loquinario
+- Rene Argenal
+- Reuella Bacalso
+- Romeo Alota
+- Valerie Fernandez
+
+### Administrative and Publicity (De La Salle University)
+
+- Lorraine Reyes Avila
+- Erin Gabrielle Chua
+- Julianne Erika De Leon
+- Rhian Mei Katigbak
+- Raphael Glendhel Romero
+- Gwyneth Irish Ungos
 
 ### Webmaster
 
@@ -81,9 +117,46 @@ last_modified_date: 2026-05-22 16:30
 
 ### Program Committee
 
-- Briane Paul Samson, De La Salle University
-- Charibeth Cheng, De La Salle University
-- Joel Ilao, De La Salle University
+- Charibeth Cheng, De La Salle University (program chair)
+- Shyam Agrawal, KIIT College of Engineering
+- Emerico Aguilar, De La Salle University
+- Dhany Arifianto, Institut Teknologi Sepuluh Nopember
+- Kurniawati Azizah, Faculty of Computer Science
+- Jasper Kyle Catapang, Money Forward, Inc.
 - Maria Art Antonette Clariño, De La Salle University
+- Raphael Gonda, De La Salle University
+- Chatchawarn Hansakunbuntheung, National Science and Technology Development Agency
+- Aye Mya Hlaing, University of Computer Studies, Yangon
+- Joel Ilao, De La Salle University
+- Joseph Marvin Imperial, University of Bath
+- Kristine Kalaw, De La Salle University
+- Kenichiro Kurusu, Tokyo University of Foreign Studies
+- Ann Franchesca Laguna, De La Salle University
+- Dessi Puji Lestari, Bandung Institute of Technology
+- Nathalie Rose Lim-Cheng, De La Salle University
+- Crisron Rudolf Lucas, University College Dublin
+- Joseph Mariani, LIMSI-CNRS
+- Hsu Myat Mo, University of Computer Studies, Yangon
+- Arbi Haza Nasution, Universitas Islam Riau
+- Nathaniel Oco, De La Salle University
+- Ethel Ong, De La Salle University
+- Chutamanee Onsuwan, Thammasat University
+- Win Pa Pa, University of Computer Studies, Yangon
 - Ronald Pascual, De La Salle University
+- Trung-Nghia Phung, Thai Nguyen University of Information and Communication Technology
+- Rodolfo Jr. Raga, Jose Rizal University
+- Reginald Neil Recario, Institute of Computer Science
+- Joanna Rivera, De La Salle University
+- Ade Romadhony, Telkom Institute of Technology
+- Sakriani Sakti, Nara Institute of Science and Technology
+- Briane Paul Samson, De La Salle University
+- Priyankoo Sarmah, Indian Institute of Technology Guwahati
+- Wiwin Suwarningsih, Indonesian Institute of Sciences
+- Christian Sy, Bicol University
+- Leif Romeritch Syliongka, De La Salle University
 - Thomas James Tiam-Lee, De La Salle University
+- Edward Tighe, De La Salle University
+- John Noel Victorino, Ateneo de Manila University
+- Hsin-Min Wang, Academia Sinica
+- Chai Wutiwiwatchai, National Electronics and Computer Technology Center
+- Yanlu Xie, Beijing Language and Culture University
