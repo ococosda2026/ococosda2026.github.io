@@ -28,19 +28,23 @@ The {{site.vars.conference.full_name}} will be held at [{{site.vars.conference.f
 
 ### Accommodation at Plantation Bay Resort and Spa – Conference Venue
 
-Participants who prefer to stay at the 5-star conference venue may avail themselves of a special O-COCOSDA 2026 accommodation rate of PHP 48,000 for a four-night stay, with check-in on November 24 and check-out on November 28, 2026.  This is equivalent to PHP 12,000 per night, compared with the resort's regular rate of approximately USD 270 per night.  The special rate applies to a Deluxe Poolside Room with two queen-sized beds and includes breakfast buffet for two persons. Participants may select this accommodation option when completing the O-COCOSDA 2026 registration form.
+Participants who prefer to stay at the 5-star conference venue may avail themselves of a special O-COCOSDA 2026 accommodation rate of PHP 49,000 for a four-night stay, with check-in on November 24 and check-out on November 28, 2026.  This is equivalent to PHP 12,000 per night, compared with the resort's regular rate of approximately USD 270 per night.  The special rate applies to a Deluxe Poolside Room with two queen-sized beds and includes breakfast buffet for two persons. Participants may select this accommodation option when completing the O-COCOSDA 2026 registration form.
 
 ### Other Accommodation Options
 
 Participants seeking more budget-friendly accommodation may consider the following nearby resorts:
-- Pacific Cebu Resort (3-star resort) – approximately 10 minutes from Plantation Bay
-- Solea Mactan Resort and Waterpark (4-star resort) – approximately 20 minutes from Plantation Bay
+- [RedDoorz Plus near Camella La Brisa Lapulapu](https://www.reddoorz.com/en-ph/hotel/philippines/lapu-lapu-city/suba-basbas/reddoorz-plus-near-camella-la-brisa-lapulapu) (2-star hotel) - approximately 5 minutes from Plantation Bay
+- [Pacific Cebu Resort](https://www.pacificceburesortinternational.com/en/) (3-star resort) – approximately 10 minutes from Plantation Bay
+- [Solea Mactan Resort and Waterpark](https://www.soleahotels.com/mactan-cebu/) (4-star resort) – approximately 20 minutes from Plantation Bay
 
-The O-COCOSDA 2026 Organizing Committee will provide complimentary shuttle service to and from the conference venue for registered participants staying at these two resorts during the conference.  Participants may book their accommodations directly with the hotels or through online booking platforms.  Competitive rates for Pacific Cebu Resort and Solea Mactan Resort and Waterpark may be available through Agoda and Booking.com.
+The O-COCOSDA 2026 Organizing Committee will provide complimentary shuttle service to and from the conference venue for registered participants staying at these three accommodation options during the conference.  Participants may book their accommodations directly with the hotels or through online booking platforms.  Competitive rates for Pacific Cebu Resort and Solea Mactan Resort and Waterpark may be available through Agoda and Booking.com.
 
 ### Cebu
 
 **Cebu** is an island province located in the heart of the **Philippines**.  Beyond its dynamic urban landscape, Cebu offers a rich blend of natural and cultural attractions. The island is home to breathtaking waterfalls, freshwater springs, and scenic mountain landscapes – ideal for those seeking respite from city life. Its coastline is dotted with white-sand beaches, world-class resorts, and charming islets. Equally memorable is the warmth and hospitality of the Cebuano people, who welcome visitors with vibrant local culture and a diverse array of Filipino cuisine and delicacies.
+
+### Visa Information
+International participants are encouraged to check in advance whether they require a visa to enter the Philippines.  For official and up-to-date information on visa requirements, visa-free entry, and other relevant immigration policies, please visit the [Philippine eVisa Portal](https://evisa.gov.ph/page/policy) of the **Department of Foreign Affairs**.  Participants are responsible for confirming the visa requirements applicable to their nationality and travel circumstances. Those who require additional guidance may also contact the nearest Philippine Embassy or Consulate.  Participants who require an invitation letter in support of their visa application may contact Glenn Pepito at [glenn.pepito@usc.edu.ph]. Please include your full name, affiliation, paper title and paper ID, if applicable, and any other information needed for the preparation of the letter.
 
 ### Language
 
@@ -58,7 +62,7 @@ The official currency of the country is the **Philippine Peso** (PHP).
 {: .warning }
 *[Old design series banknotes were already demonetized](https://www.bsp.gov.ph/Pages/CoinsAndNotes/DemonetizedCoinsAndNotes/DemonetizedNotesAndCoinsOverview.aspx) and are not anymore accepted in stores.*
 
-**1 USD** is roughly equivalent to **60 PHP**. Visit this link for the [Bangko Sentral ng Pilipinas Reference Exchange Rate Bulletin](https://www.bsp.gov.ph/sitepages/statistics/exchangerate.aspx)
+**1 USD** is roughly equivalent to **63 PHP**. Visit this link for the [Bangko Sentral ng Pilipinas Reference Exchange Rate Bulletin](https://www.bsp.gov.ph/sitepages/statistics/exchangerate.aspx)
 
 <iframe
   title="fx"
