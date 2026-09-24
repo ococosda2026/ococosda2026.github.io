@@ -37,14 +37,17 @@ Participants seeking more budget-friendly accommodation may consider the followi
 - [Pacific Cebu Resort](https://www.pacificceburesortinternational.com/en/) (3-star resort) – approximately 10 minutes from Plantation Bay
 - [Solea Mactan Resort and Waterpark](https://www.soleahotels.com/mactan-cebu/) (4-star resort) – approximately 20 minutes from Plantation Bay
 
-The O-COCOSDA 2026 Organizing Committee will provide complimentary shuttle service to and from the conference venue for registered participants staying at these three accommodation options during the conference.  Participants may book their accommodations directly with the hotels or through online booking platforms.  Competitive rates for Pacific Cebu Resort and Solea Mactan Resort and Waterpark may be available through Agoda and Booking.com.
+The O-COCOSDA 2026 Organizing Committee will provide **scheduled complimentary shuttle service** to and from the conference venue for registered participants staying at these three accommodation options during the conference.  Participants may book their accommodations directly with the hotels or through online booking platforms.  Competitive rates for Pacific Cebu Resort and Solea Mactan Resort and Waterpark may be available through Agoda and Booking.com.
 
 ### Cebu
 
-**Cebu** is an island province located in the heart of the **Philippines**.  Beyond its dynamic urban landscape, Cebu offers a rich blend of natural and cultural attractions. The island is home to breathtaking waterfalls, freshwater springs, and scenic mountain landscapes – ideal for those seeking respite from city life. Its coastline is dotted with white-sand beaches, world-class resorts, and charming islets. Equally memorable is the warmth and hospitality of the Cebuano people, who welcome visitors with vibrant local culture and a diverse array of Filipino cuisine and delicacies.
+Cebu is an island province located in the heart of the **Philippines**.  Beyond its dynamic urban landscape, Cebu offers a rich blend of natural and cultural attractions. The island is home to breathtaking waterfalls, freshwater springs, and scenic mountain landscapes – ideal for those seeking respite from city life. Its coastline is dotted with white-sand beaches, world-class resorts, and charming islets. Equally memorable is the warmth and hospitality of the Cebuano people, who welcome visitors with vibrant local culture and a diverse array of Filipino cuisine and delicacies.
 
 ### Visa Information
-International participants are encouraged to check in advance whether they require a visa to enter the Philippines.  For official and up-to-date information on visa requirements, visa-free entry, and other relevant immigration policies, please visit the [Philippine eVisa Portal](https://evisa.gov.ph/page/policy) of the **Department of Foreign Affairs**.  Participants are responsible for confirming the visa requirements applicable to their nationality and travel circumstances. Those who require additional guidance may also contact the nearest Philippine Embassy or Consulate.  Participants who require an invitation letter in support of their visa application may contact Glenn Pepito at [glenn.pepito@usc.edu.ph]. Please include your full name, affiliation, paper title and paper ID, if applicable, and any other information needed for the preparation of the letter.
+
+International participants are encouraged to check in advance whether they require a visa to enter the Philippines.  For official and up-to-date information on visa requirements, visa-free entry, and other relevant immigration policies, please visit the Philippine eVisa Portal of the **Department of Foreign Affairs**: <https://evisa.gov.ph/page/policy>
+
+Participants are responsible for confirming the visa requirements applicable to their nationality and travel circumstances. Those who require additional guidance may also contact the nearest Philippine Embassy or Consulate.  Participants who require an invitation letter in support of their visa application may contact **Glenn Pepito** at <glenn.pepito@usc.edu.ph>. Please include your full name, affiliation, paper title and paper ID, if applicable, and any other information needed for the preparation of the letter.
 
 ### Language
 
@@ -98,6 +101,3 @@ Mactan Island is accessible via air through the Mactan–Cebu International Airp
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d31404.568661574733!2d123.96838727089893!3d10.296101323512751!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x33a997613bbd25df%3A0x8bd061454b8432c1!2sMactan-Cebu%20International%20Airport%2C%20Lapu-Lapu%20Airport%20Rd%2C%20Lapu-Lapu%2C%206016%20Cebu!3m2!1d10.3136169!2d123.98335569999999!4m5!1s0x33a9909b062b564f%3A0x3111ac5bd41461a3!2sPlantation%20Bay%2C%20a%20Real%20Resort%20with%20a%20Real%20Spa%2C%20Marigondon%2C%20Mactan%20Island%2C%20Lapu-Lapu%2C%206015%20Cebu!3m2!1d10.260525399999999!2d123.9828074!5e0!3m2!1sen!2sph!4v1777445704188!5m2!1sen!2sph" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-### Visa Requirements
-
-Visit <https://evisa.gov.ph/page/policy> for information.
