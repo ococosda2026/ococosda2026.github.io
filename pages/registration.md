@@ -57,6 +57,10 @@ The **full registration fee** covers admission to all conference sessions, lunch
 
 For **early-bird registration**, the payment date will be determined based on the date the transfer was initiated, as indicated in the proof of payment uploaded through the registration form.
 
+All individuals attending O-COCOSDA 2026 are required to register individually.
+
+Students may avail themselves of the **Students** rate whether attending as authors, presenters, or participants.  Non-student attendees should register under the applicable **Author and Participants** category.
+
 Participants who are unable to complete payment in advance and wish to pay onsite (during the conference) must inform the organizing committee via email at <nathaniel.oco@dlsu.edu.ph>. Onsite payments will be charged at the regular registration rate.
 
 For bank transfers, participants are required to fill out the registration form.
