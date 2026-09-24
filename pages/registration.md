@@ -53,7 +53,7 @@ Visit this link for online payment: <https://events.dlsu.edu.ph/o-cocosda/>
 
 -----
 
-The **full registration fee** covers admission to all conference sessions, lunch, morning and afternoon coffee breaks, and the gala dinner. Accommodation and airport transportation are not included in the registration fee.
+The **registration fee** covers admission to all conference sessions, lunch, morning and afternoon coffee breaks, and the gala dinner. Accommodation and airport transportation are not included in the registration fee.
 
 For **early-bird registration**, the payment date will be determined based on the date the transfer was initiated, as indicated in the proof of payment uploaded through the registration form.
 
