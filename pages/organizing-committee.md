@@ -37,7 +37,7 @@ last_modified_date: 2026-05-22 16:30
 - Mark Kenneth Engcot, University of San Carlos
 - Katrina Fuentes, University of San Carlos
 - Joel Ilao, De La Salle University
-- Kenichiro Kurusu, Tokyo University of Foreign Studies
+- Kenichiro Kurusu, Tokyo University of Marine Science and Technology
 - Christian Maderazo, University of San Carlos
 - Christine Pena, University of San Carlos
 - Elmer Poliquit, University of San Carlos
@@ -69,6 +69,13 @@ last_modified_date: 2026-05-22 16:30
 - Reuella Bacalso
 - Romeo Alota
 - Valerie Fernandez
+
+### Student Volunteers (De La Salle University)
+
+- Sherwynn Angeles
+- Joel Ethan Batac
+- Enzo Arkin Panugayan
+- Lester Anthony Jr. Sityar
 
 ### Administrative and Publicity (De La Salle University)
 
@@ -130,7 +137,7 @@ last_modified_date: 2026-05-22 16:30
 - Joel Ilao, De La Salle University
 - Joseph Marvin Imperial, University of Bath
 - Kristine Kalaw, De La Salle University
-- Kenichiro Kurusu, Tokyo University of Foreign Studies
+- Kenichiro Kurusu, Tokyo University of Marine Science and Technology
 - Ann Franchesca Laguna, De La Salle University
 - Dessi Puji Lestari, Bandung Institute of Technology
 - Nathalie Rose Lim-Cheng, De La Salle University
