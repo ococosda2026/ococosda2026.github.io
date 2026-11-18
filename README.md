@@ -13,6 +13,7 @@ The conference website for O-COCOSDA 2026 or the 29th International Conference o
   - [Run the application locally](#run-the-application-locally)
 - [Deployment](#deployment)
 - [Project structure](#project-structure)
+- [Reference Site](#reference-site)
 
 ## Built with
 
@@ -104,3 +105,7 @@ ococosda2026.github.io
 - [`Gemfile`](Gemfile): Contains the build system requirements (dependencies).
 - [`Gemfile.lock`](Gemfile.lock): A snapshot of the exact versions of the dependencies used (automatically generated via `bundle install`).
 - [`index.md`](index.md): Main entry point of the website (home page).
+
+## Reference Site
+
+This Google Site is the reference website: <https://sites.google.com/dlsu.edu.ph/o-cocosda2026/home>

@@ -2,7 +2,6 @@
 layout: default
 title: Paper Submission
 nav_order: 2
-last_modified_date: 2026-05-22 16:15
 ---
 
 <!-- markdownlint-disable MD033 MD060 -->

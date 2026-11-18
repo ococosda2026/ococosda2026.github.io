@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Registration
-nav_order: 3
-last_modified_date: 2026-05-22 16:15
+nav_order: 4
 ---
 
 <!-- markdownlint-disable MD033 -->

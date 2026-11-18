@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Local Information
-nav_order: 4
-last_modified_date: 2026-05-22 16:25
+nav_order: 5
 ---
+
 <!-- markdownlint-disable MD033 -->
 
 <table>
@@ -33,6 +33,7 @@ Participants who prefer to stay at the 5-star conference venue may avail themsel
 ### Other Accommodation Options
 
 Participants seeking more budget-friendly accommodation may consider the following nearby resorts:
+
 - [RedDoorz Plus near Camella La Brisa Lapulapu](https://www.reddoorz.com/en-ph/hotel/philippines/lapu-lapu-city/suba-basbas/reddoorz-plus-near-camella-la-brisa-lapulapu) (2-star hotel) - approximately 5 minutes from Plantation Bay
 - [Pacific Cebu Resort](https://www.pacificceburesortinternational.com/en/) (3-star resort) – approximately 10 minutes from Plantation Bay
 - [Solea Mactan Resort and Waterpark](https://www.soleahotels.com/mactan-cebu/) (4-star resort) – approximately 20 minutes from Plantation Bay
@@ -100,4 +101,3 @@ Mactan Island is accessible via air through the Mactan–Cebu International Airp
 - Plantation Bay Resort and Spa also offers shuttle service
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d31404.568661574733!2d123.96838727089893!3d10.296101323512751!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x33a997613bbd25df%3A0x8bd061454b8432c1!2sMactan-Cebu%20International%20Airport%2C%20Lapu-Lapu%20Airport%20Rd%2C%20Lapu-Lapu%2C%206016%20Cebu!3m2!1d10.3136169!2d123.98335569999999!4m5!1s0x33a9909b062b564f%3A0x3111ac5bd41461a3!2sPlantation%20Bay%2C%20a%20Real%20Resort%20with%20a%20Real%20Spa%2C%20Marigondon%2C%20Mactan%20Island%2C%20Lapu-Lapu%2C%206015%20Cebu!3m2!1d10.260525399999999!2d123.9828074!5e0!3m2!1sen!2sph!4v1777445704188!5m2!1sen!2sph" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-

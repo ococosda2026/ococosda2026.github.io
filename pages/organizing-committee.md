@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Organizing Committee
-nav_order: 5
-last_modified_date: 2026-05-22 16:30
+nav_order: 6
 ---
+
 <!-- markdownlint-disable MD033 -->
 
 <table>
