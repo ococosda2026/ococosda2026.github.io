@@ -11,11 +11,11 @@ nav_order: 4
 ## Registration
 
 |                                                | Early bird<br>(by September 28) | Regular rate<br>(Sep 29 - Nov 27) |
-| ---------------------------------------------: | :-----------------------------: | :------------------------------: |
-|     **Authors and Participants (ISCA Member)** |       PHP 17,500 (USD 290)      |       PHP 21,500 (USD 350)       |
-| **Authors and Participants (Non-ISCA Member)** |       PHP 19,500 (USD 320)      |       PHP 23,500 (USD 380)       |
-|                     **Students (ISCA Member)** |       PHP  9,000 (USD 150)      |       PHP 11,500 (USD 190)       |
-|                 **Students (Non-ISCA Member)** |       PHP 11,000 (USD 180)      |       PHP 13,500 (USD 220)       |
+| ---------------------------------------------: | :-----------------------------: | :-------------------------------: |
+|     **Authors and Participants (ISCA Member)** |       PHP 17,500 (USD 290)      |       PHP 21,500 (USD 350)        |
+| **Authors and Participants (Non-ISCA Member)** |       PHP 19,500 (USD 320)      |       PHP 23,500 (USD 380)        |
+|                     **Students (ISCA Member)** |       PHP  9,000 (USD 150)      |       PHP 11,500 (USD 190)        |
+|                 **Students (Non-ISCA Member)** |       PHP 11,000 (USD 180)      |       PHP 13,500 (USD 220)        |
 
 -----
 
