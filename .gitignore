@@ -20,3 +20,6 @@ vendor/
 
 # Gemfile.lock
 Gemfile.lock
+
+# Claude-related files
+.claude

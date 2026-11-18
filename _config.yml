@@ -26,7 +26,8 @@ favicon_ico: "/assets/images/ococosda-favicon.ico"
 
 # Footer content
 # appears at the bottom of every page's main content
-footer_content: "© 2026 <strong>O-COCOSDA 2026 Organizing Committee</strong>."
+# commented out in favor of /_includes/footer_custom.html
+# footer_content: "© 2026 <strong>O-COCOSDA 2026 Organizing Committee</strong>."
 
 # Color for callout
 callouts:
