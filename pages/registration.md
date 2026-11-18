@@ -6,21 +6,11 @@ nav_order: 4
 
 <!-- markdownlint-disable MD033 -->
 
-<table>
-  <tr>
-    <td style="width: 120px">
-      <img src="/assets/images/ococosda-logo.png" alt="O-COCOSDA 2026 logo" title="O-COCOSDA 2026 logo" style="height: inherit;"/>
-    </td>
-    <td>
-      <strong>The {{site.vars.conference.full_name}}</strong> <br>
-      📍 {{site.vars.conference.full_location}} <br>
-      📅 {{site.vars.conference.dates}} </td>
-  </tr>
-</table>
+{% include infobanner.html %}
 
 ## Registration
 
-|                                                | Early bird<br>(by September 28) | Regular rate<br>(Sep 29 - Nov27) |
+|                                                | Early bird<br>(by September 28) | Regular rate<br>(Sep 29 - Nov 27) |
 | ---------------------------------------------: | :-----------------------------: | :------------------------------: |
 |     **Authors and Participants (ISCA Member)** |       PHP 17,500 (USD 290)      |       PHP 21,500 (USD 350)       |
 | **Authors and Participants (Non-ISCA Member)** |       PHP 19,500 (USD 320)      |       PHP 23,500 (USD 380)       |

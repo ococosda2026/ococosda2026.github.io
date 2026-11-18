@@ -6,17 +6,7 @@ nav_order: 5
 
 <!-- markdownlint-disable MD033 -->
 
-<table>
-  <tr>
-    <td style="width: 120px">
-      <img src="/assets/images/ococosda-logo.png" alt="O-COCOSDA 2026 logo" title="O-COCOSDA 2026 logo" style="height: inherit;"/>
-    </td>
-    <td>
-      <strong>The {{site.vars.conference.full_name}}</strong> <br>
-      📍 {{site.vars.conference.full_location}} <br>
-      📅 {{site.vars.conference.dates}} </td>
-  </tr>
-</table>
+{% include infobanner.html %}
 
 ## Local Information
 
