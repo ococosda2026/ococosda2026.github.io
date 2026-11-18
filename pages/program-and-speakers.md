@@ -6,6 +6,18 @@ nav_order: 3
 
 <!-- markdownlint-disable MD033 -->
 
+<table>
+  <tr>
+    <td style="width: 120px">
+      <img src="/assets/images/ococosda-logo.png" alt="O-COCOSDA 2026 logo" title="O-COCOSDA 2026 logo" style="height: inherit;"/>
+    </td>
+    <td>
+      <strong>The {{site.vars.conference.full_name}}</strong> <br>
+      📍 {{site.vars.conference.full_location}} <br>
+      📅 {{site.vars.conference.dates}} </td>
+  </tr>
+</table>
+
 ## Program
 
 <iframe src="https://drive.google.com/file/d/1tVhcbNF0nvEP7qxwLyqf5rsbtztHgK7V/preview" width="100%" height="480"></iframe>
