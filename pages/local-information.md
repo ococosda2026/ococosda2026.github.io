@@ -32,12 +32,13 @@ The O-COCOSDA 2026 Organizing Committee will provide **scheduled complimentary s
 
 ### Shuttle Schedule
 
-- November 25 Morning route: Solea (07:00 am) - Pacific Cebu Resort (07:20 am) - RedDoorz (07:30 am) - Plantation Bay (07:40 am)
-- November 25 Evening route: Plantation Bay (07:50 pm) - RedDoorz (08:00 pm) - Pacific Cebu Resort (08:10 pm) - Solea (08:30 pm)
-- November 26 Morning route: Solea (07:20 am) - Pacific Cebu Resort (07:40 am) - RedDoorz (07:50 am) - Plantation Bay (08:00 am)
-- November 26 Afternoon route: Plantation Bay (04:45 pm) - RedDoorz (04:55 pm) - Pacific Cebu Resort (05:05 pm) - Solea (05:25 pm)
-- November 27 Morning route: Solea (07:20 am) - Pacific Cebu Resort (07:40 am) - RedDoorz (07:50 am) - Plantation Bay (08:00 am)
-- November 27 Afternoon route: Plantation Bay (01:15 pm) - RedDoorz (01:25 pm) - Pacific Cebu Resort (01:35 pm) - Solea (01:55 pm)
+- November 25 Morning route: Solea (07:00 am) - Pacific Cebu Resort (07:20 am) - RedDoorz (07:30 am) - Plantation Bay
+- November 25 Evening route: Plantation Bay (07:50 pm) - RedDoorz (08:00 pm) - Pacific Cebu Resort (08:10 pm) - Solea
+- November 26 Morning route: Solea (07:20 am) - Pacific Cebu Resort (07:40 am) - RedDoorz (07:50 am) - Plantation Bay
+- November 26 Afternoon route: Plantation Bay (04:45 pm) - RedDoorz (04:55 pm) - Pacific Cebu Resort (05:05 pm) - Solea
+- November 27 Morning route: Solea (07:20 am) - Pacific Cebu Resort (07:40 am) - RedDoorz (07:50 am) - Plantation Bay
+- November 27 Afternoon route: Plantation Bay (01:15 pm) - RedDoorz (01:25 pm) - Pacific Cebu Resort (01:35 pm) - Solea
+
 Please be at the hotel lobby 10 minutes before the pick-up time as the shuttle may arrive and leave earlier than scheduled.
 
 ### Cebu
