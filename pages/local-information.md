@@ -30,6 +30,16 @@ Participants seeking more budget-friendly accommodation may consider the followi
 
 The O-COCOSDA 2026 Organizing Committee will provide **scheduled complimentary shuttle service** to and from the conference venue for registered participants staying at these three accommodation options during the conference.  Participants may book their accommodations directly with the hotels or through online booking platforms.  Competitive rates for Pacific Cebu Resort and Solea Mactan Resort and Waterpark may be available through Agoda and Booking.com.
 
+### Shuttle Schedule
+
+- November 25 Morning route: Solea (07:00 am) - Pacific Cebu Resort (07:20 am) - RedDoorz (07:30 am) - Plantation Bay (07:40 am)
+- November 25 Evening route: Plantation Bay (07:50 pm) - RedDoorz (08:00 pm) - Pacific Cebu Resort (08:10 pm) - Solea (08:30 pm)
+- November 26 Morning route: Solea (07:20 am) - Pacific Cebu Resort (07:40 am) - RedDoorz (07:50 am) - Plantation Bay (08:00 am)
+- November 26 Afternoon route: Plantation Bay (04:45 pm) - RedDoorz (04:55 pm) - Pacific Cebu Resort (05:05 pm) - Solea (05:25 pm)
+- November 27 Morning route: Solea (07:20 am) - Pacific Cebu Resort (07:40 am) - RedDoorz (07:50 am) - Plantation Bay (08:00 am)
+- November 27 Afternoon route: Plantation Bay (01:15 pm) - RedDoorz (01:25 pm) - Pacific Cebu Resort (01:35 pm) - Solea (01:55 pm)
+Please be at the hotel lobby 10 minutes before the pick-up time as the shuttle may arrive and leave earlier than scheduled.
+
 ### Cebu
 
 Cebu is an island province located in the heart of the **Philippines**.  Beyond its dynamic urban landscape, Cebu offers a rich blend of natural and cultural attractions. The island is home to breathtaking waterfalls, freshwater springs, and scenic mountain landscapes – ideal for those seeking respite from city life. Its coastline is dotted with white-sand beaches, world-class resorts, and charming islets. Equally memorable is the warmth and hospitality of the Cebuano people, who welcome visitors with vibrant local culture and a diverse array of Filipino cuisine and delicacies.
